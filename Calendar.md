@@ -1,39 +1,39 @@
-# <center>[**Cool Kids Coding School**](http://www.coolkidscodingschool.com)<br>Course Calendar: **Introductory Python**<br>  Fall 2019
+# <center>[**Cool Kids Coding School**](http://www.coolkidscodingschool.com)<br>Course Calendar: **Programming Graphics with Python**<br>  Fall 2019
 ---
-> **Class Code: IP1902 (TBD)**
-+ Class #1 (**Background and Development Environment**)
-  + TBD
-  + TBD
-+ Class #2 (**Variables and Operators Part 1**)
-  + TBD
-  + TBD
-+ Class #3 (**Variables and Operators Part 2**)
-  + TBD
-  + TBD
-+ Class #4 (**Data Structures Part 1**)
-  + TBD
-  + TBD
-+ Class #5 (**Data Structures Part 2**)
-  + TBD
-  + TBD
-+ Class #6 (**Loops Part1**)
-  + TBD
-  + TBD
-+ Class #7 (**Loops Part1**)
-  + TBD
-  + TBD
-+ Class #8 (**Conditionals**)
-  + TBD
-  + TBD
-+ Class #9 (**Functions and Packages**)
-  + TBD
-  + TBD
-+ Class #10 (**Review Part1**)
-  + TBD
-  + TBD
-+ Class #11 (**Review Part2**)
-  + TBD
-  + TBD
+> **Class Code: PG1901**
++ Class #1 (**Inrtoduction and Development Environment**)
+  + 9/16/2019
+  + Upper East Side
++ Class #2 (**TBD**)
+  + 9/23/2019
+  + Upper East Side
++ Class #3 (**TBD**)
+  + 9/30/2019
+  + Upper East Side
++ Class #4 (**TBD**)
+  + 10/7/2019
+  + Upper East Side
++ Class #5 (**TBD**)
+  + 10/21/2019
+  + Upper East Side
++ Class #6 (**TBD**)
+  + 10/28/2019
+  + Upper East Side
++ Class #7 (**TBD**)
+  + 11/4/2019
+  + Upper East Side
++ Class #8 (**TBD**)
+  + 11/11/2014
+  + Upper East Side
++ Class #9 (**TBD**)
+  + 11/18/2019
+  + Upper East Side
++ Class #10 (**TBD**)
+  + 11/25/2019
+  + Upper East Side
++ Class #11 (**TBD**)
+  + 12/2/2019
+  + Upper East Side
 + Class #12 (**Final Exam**)
-  + TBD
-  + TBD
+  + 12/9/2019
+  + Upper East Side
