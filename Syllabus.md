@@ -3,8 +3,13 @@
 + **Lesson 1:  Background and Introduction to Development Environment**
   > This course will be an introduction to computer programming using graphics.  We will revisit topics we have already discussed in the context of graphical programming.  The programming language we will use in this course will be python, and the graphical package we use will be turtle. In this class we will review the development environment and the turtle commands that allow us to draw with code.
   
-+ **Lesson 2:  Creating shapes (Part1)**
-  > Discuss how we will use the turtle commands to create various geometric shapes.  Use variables and operators to create these shapes and then perform various operations on them.
++ **Lesson 2:  Fundamentals of Graphics**
+  > In this lesson we will be discussing the following topics:
+  + Cartesian coordinate system
+  + Introduce namedtuples
+  + Representing points
+  + Creating line segments and measuring their length. 
+  + Creating data structures that will represent shapes.
   
 + **Lesson 3: Creating shapes (Part2)**
   > Continue discussion started in previous class on geometric shape creation
