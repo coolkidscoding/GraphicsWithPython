@@ -11,7 +11,7 @@
   + Creating line segments and measuring their length. 
   + Creating data structures that will represent shapes.
   
-+ **Lesson 3: Creating shapes (Part2)**
++ **Lesson 3: Fundamentals of Graphics (Part2)**
   > Continue discussion started in previous class on geometric shape creation
 
 + **Lesson 4: Measuring Shape Attributes (Part1)**
