@@ -4,16 +4,16 @@
 + Class #1 (**Inrtoduction and Development Environment**)
   + 9/16/2019
   + Upper East Side
-+ Class #2 (**TBD**)
++ Class #2 (**Fundamentals of Graphics**)
   + 9/23/2019
   + Upper East Side
-+ Class #3 (**TBD**)
++ Class #3 (**Rendering Basic Shapes**)
   + 9/30/2019
   + Upper East Side
-+ Class #4 (**TBD**)
++ Class #4 (**Manipulation of Shapes**)
   + 10/7/2019
   + Upper East Side
-+ Class #5 (**TBD**)
++ Class #5 (**Linear Equations**)
   + 10/21/2019
   + Upper East Side
 + Class #6 (**TBD**)

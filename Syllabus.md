@@ -8,27 +8,31 @@
   + Cartesian coordinate system
   + Introduce namedtuples
   + Representing points
-  + Creating line segments and measuring their length. 
-  + Creating data structures that will represent shapes.
+  + Representing line segments
   
-+ **Lesson 3: Fundamentals of Graphics (Part2)**
-  > Continue discussion started in previous class on geometric shape creation
++ **Lesson 3: Rendering Basic Shapes**
+  > In this lesson we are going to build on what we learned in the last class.  Specifically we are going to take the definitions of the basic graphic constructs that we just learned and extend that to turn it into a graphing program.  We will create data structures that we can use to represent shapes and and we will create functions that we will use to actually graph these constructs.
 
-+ **Lesson 4: Measuring Shape Attributes (Part1)**
-  > Now that we can generate various geometric shapes how do we measure various attributes?
++ **Lesson 4: Geometric Manipulation of Shapes**
+  > In this class we will learn the basic manipulations of a graphical object.  We will learn:
+  + translation
+  + rotation
+  + reflection
+  + scaling
+  + shear
 
-+ **Lesson 5: Measuring Shape Attributes (Part2)**
-  > Continue discussion from last class on measuring attributes of various shapes.
++ **Lesson 5: Linear Equations**
+  > In this lesson we will learn how to graph linear equations.  We will learn what a linear equation is and how to represent it.
 
-+ **Lesson 6:  Shapes in Motion (Part1)**
++ **Lesson 6:  TBD**
 
-+ **Lesson 7:  Shapes in Motion (Part2)**
++ **Lesson 7:  TBD**
 
-+ **Lesson 8:  Conditions on Shapes (Part1)** 
++ **Lesson 8:  TBD** 
 
-+ **Lesson 9:  Conditions on Shapes (Part2)**
++ **Lesson 9:  TBD**
 
-+ **Lesson 10: Graphics with Functions**
++ **Lesson 10: TBD**
 
 + **Lesson 11: Review**
   > Review the material we have covered so far in preparation for the final exam.
