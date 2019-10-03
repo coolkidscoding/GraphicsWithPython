@@ -10,10 +10,13 @@
   + Representing points
   + Representing line segments
   
-+ **Lesson 3: Rendering Basic Shapes**
++ **Lesson 3: Consolidation Lesson**
+  > In this lesson we are going to deep dive the homework and review everything we have learned so far inorder to get a firm understanding of where we are in the curriculum.
+
++ **Lesson 4: Rendering Basic Shapes**
   > In this lesson we are going to build on what we learned in the last class.  Specifically we are going to take the definitions of the basic graphic constructs that we just learned and extend that to turn it into a graphing program.  We will create data structures that we can use to represent shapes and and we will create functions that we will use to actually graph these constructs.
 
-+ **Lesson 4: Geometric Manipulation of Shapes**
++ **Lesson 5: Geometric Manipulation of Shapes**
   > In this class we will learn the basic manipulations of a graphical object.  We will learn:
   + translation
   + rotation
@@ -21,18 +24,16 @@
   + scaling
   + shear
 
-+ **Lesson 5: Linear Equations**
++ **Lesson 6: Linear Equations**
   > In this lesson we will learn how to graph linear equations.  We will learn what a linear equation is and how to represent it.
-
-+ **Lesson 6:  TBD**
 
 + **Lesson 7:  TBD**
 
-+ **Lesson 8:  TBD** 
++ **Lesson 8:  TBD**
 
-+ **Lesson 9:  TBD**
++ **Lesson 9:  TBD** 
 
-+ **Lesson 10: TBD**
++ **Lesson 10:  TBD**
 
 + **Lesson 11: Review**
   > Review the material we have covered so far in preparation for the final exam.
