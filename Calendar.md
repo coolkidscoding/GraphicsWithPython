@@ -10,7 +10,7 @@
 + Class #3 (**Consolidation Lesson**)
   + 9/30/2019
   + Upper East Side
-+ Class #4 (**Rendering Basic Shapes**)
++ Class #4 (**Quiz/Rendering Basic Shapes**)
   + 10/10/2019
   + Upper East Side
 + Class #5 (**Linear Equations**)
