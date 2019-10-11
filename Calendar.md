@@ -1,6 +1,8 @@
-# <center>[**Cool Kids Coding School**](http://www.coolkidscodingschool.com)<br>Course Calendar: **Programming Graphics with Python**<br>  Fall 2019
+# <center> [**Cool Kids Coding School**](http://www.coolkidscodingschool.com)<br>Course Calendar: **Programming Graphics with Python**<br>  Fall 2019
+
 ---
 > **Class Code: PG1901**
+
 + Class #1 (**Inrtoduction and Development Environment**)
   + 9/16/2019
   + Upper East Side
@@ -10,16 +12,16 @@
 + Class #3 (**Consolidation Lesson**)
   + 9/30/2019
   + Upper East Side
-+ Class #4 (**Quiz/Rendering Basic Shapes**)
++ Class #4 (**Quiz**)
   + 10/10/2019
   + Upper East Side
-+ Class #5 (**Linear Equations**)
++ Class #5 (**Rendering Basic Shapes**)
   + 10/14/2019
   + Upper East Side
-+ Class #6 (**TBD**)
++ Class #6 (**Manipulating Geometric Shapes**)
   + 10/21/2019
   + Upper East Side
-+ Class #7 (**TBD**)
++ Class #7 (**Linear Equations**)
   + 10/28/2019
   + Upper East Side
 + Class #8 (**TBD**)

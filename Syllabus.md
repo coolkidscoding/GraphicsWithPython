@@ -13,10 +13,13 @@
 + **Lesson 3: Consolidation Lesson**
   > In this lesson we are going to deep dive the homework and review everything we have learned so far inorder to get a firm understanding of where we are in the curriculum.
 
-+ **Lesson 4: Quiz/Rendering Basic Shapes**
-  > We are going to start this lesson with a 20 minute paper quiz to ensure students have the required grasp of the material.  Following the quiz we are going to build on what we learned in the last class.  Specifically we are going to take the definitions of the basic graphic constructs that we just learned and extend that to turn it into a graphing program.  We will create data structures that we can use to represent shapes and and we will create functions that we will use to actually graph these constructs.
++ **Lesson 4: Quiz**
+  > We are going to start this lesson with a 20 minute paper quiz to ensure students have the required grasp of the material.  After we review the quiz we will jump into the lesson.
 
-+ **Lesson 5: Geometric Manipulation of Shapes**
++ **Lesson 5: Rendering Geometric Shapes**
+    > In this lesson we are going to start a project that will allow draw a cartesian coordinate grid on the screen.  Once done with that we are going to take the definitions of the basic graphic constructs that we just learned and extend that to turn it into a graphing program.  We will create data structures that we can use to represent shapes and and we will create functions that we will use to actually graph these constructs.
+
++ **Lesson 6: Geometric Manipulation of Shapes**
   > In this class we will learn the basic manipulations of a graphical object.  We will learn:
   + translation
   + rotation
@@ -24,10 +27,8 @@
   + scaling
   + shear
 
-+ **Lesson 6: Linear Equations**
++ **Lesson 7: Linear Equations**
   > In this lesson we will learn how to graph linear equations.  We will learn what a linear equation is and how to represent it.
-
-+ **Lesson 7:  TBD**
 
 + **Lesson 8:  TBD**
 
