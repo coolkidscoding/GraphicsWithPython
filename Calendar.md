@@ -18,13 +18,13 @@
 + Class #5 (**Rendering Basic Shapes**)
   + 10/14/2019
   + Upper East Side
-+ Class #6 (**Manipulating Geometric Shapes**)
++ Class #6 (**Manipulating Geometric Shapes Pt1**)
   + 10/21/2019
   + Upper East Side
-+ Class #7 (**Linear Equations**)
++ Class #7 (**Manipulating Geometric Shapes Pt2**)
   + 10/28/2019
   + Upper East Side
-+ Class #8 (**TBD**)
++ Class #8 (**Linear Equations**)
   + 11/4/2014
   + Upper East Side
 + Class #9 (**TBD**)
