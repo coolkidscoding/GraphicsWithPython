@@ -24,7 +24,7 @@
 + Class #7 (**Manipulating Geometric Shapes Pt2**)
   + 10/28/2019
   + Upper East Side
-+ Class #8 (**Linear Equations**)
++ Class #8 (**Animation**)
   + 11/4/2014
   + Upper East Side
 + Class #9 (**TBD**)
