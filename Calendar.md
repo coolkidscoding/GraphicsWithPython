@@ -25,17 +25,17 @@
   + 10/28/2019
   + Upper East Side
 + Class #8 (**Animation**)
-  + 11/4/2014
+  + 11/11/2014
   + Upper East Side
 + Class #9 (**TBD**)
-  + 11/11/2019
-  + Upper East Side
-+ Class #10 (**TBD**)
   + 11/18/2019
   + Upper East Side
-+ Class #11 (**TBD**)
++ Class #10 (**TBD**)
   + 11/25/2019
   + Upper East Side
-+ Class #12 (**Final Exam**)
++ Class #11 (**TBD**)
   + 12/2/2019
+  + Upper East Side
++ Class #12 (**Final Exam**)
+  + 12/9/2019
   + Upper East Side
