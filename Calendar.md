@@ -27,7 +27,7 @@
 + Class #8 (**Animation**)
   + 11/11/2014
   + Upper East Side
-+ Class #9 (**TBD**)
++ Class #9 (**More Animation**)
   + 11/18/2019
   + Upper East Side
 + Class #10 (**TBD**)
