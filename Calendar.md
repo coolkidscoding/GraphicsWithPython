@@ -30,9 +30,9 @@
 + Class #9 (**More Animation**)
   + 11/18/2019
   + Upper East Side
-+ Class #10 (**TBD**)
++ Class #10 (**Quiz2**)
   + 11/25/2019
-  + Upper East Side
+  + Zwirn Home
 + Class #11 (**TBD**)
   + 12/2/2019
   + Upper East Side
